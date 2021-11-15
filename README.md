@@ -1,4 +1,4 @@
-# Movies-ETL - Module 9 Challenge
+# Movies-ETL - Module 8 Challenge
 
 ### Please Note - the README for this assignment is ungraded and is only included to describe the purpose of the overall assignment and files included
 
